@@ -3,10 +3,8 @@
  ## Problem Statement
 
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
-
-If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
-
-If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 ## Objective
 Use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
@@ -27,4 +25,8 @@ When a person applies for a loan, there are two types of decisions that could be
     Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the 
     loan was rejected, there is no transactional history of those applicants with the company and so this data is not 
     available with the company (and thus in this dataset)
-
+ ## Summary
+ Following files has been inlcluded as a part of solutions:
+ 1. READ.me file for Problem discriptions.
+ 2. Lending_Club_Case_Study.ipynb ipython file for performing EDA.
+ 3. Lending_Club_Case_Study.pptx.pdf about the Analysis and Conclusions of EDA performed.
