@@ -27,4 +27,8 @@ When a person applies for a loan, there are two types of decisions that could be
     Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the 
     loan was rejected, there is no transactional history of those applicants with the company and so this data is not 
     available with the company (and thus in this dataset)
-
+ ## Summary
+ Following files has been inlcluded as a part of solutions:
+ 1. READ.me file for Problem discriptions.
+ 2. Lending_Club_Case_Study.ipynb ipython file for performing EDA.
+ 3. Lending_Club_Case_Study.pptx.pdf as mention about the Analysis and Conclusions of EDA performed.
