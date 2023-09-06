@@ -28,6 +28,6 @@ When a person applies for a loan, there are two types of decisions that could be
  ## Summary
  Following files has been inlcluded as a part of solutions:
  1. READ.me file for Problem discriptions.
- 2. Lending_Club_Case_Study.ipynb ipython file for performing EDA.
- 3. Lending Club Case Study.pdf about the Analysis and Conclusions of EDA performed.
+ 2. Kunal_Sahu.ipynb ipython file for performing EDA.
+ 3. Kunal_Sahu.pdf about the Analysis and Conclusions of EDA performed.
  4. Loan.csv file.
